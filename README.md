@@ -13,18 +13,18 @@
 <details>
   <summary>Lenguajes de Programación</summary>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li>HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"></li>
+    <li>CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="30" height="30"></li>
+    <li>JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"></li>
   </ul>
 </details>
 
 <details>
   <summary>Frameworks y Bibliotecas</summary>
   <ul>
-    <li>React</li>
+    <li>Laravel <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="30" height="30"></li>
     <li>Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30"></li>
-    <li>Bootstrap</li>
+    <li>Bootstrap <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"></li>
   </ul>
 </details>
 
