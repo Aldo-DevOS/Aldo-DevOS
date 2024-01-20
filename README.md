@@ -1,12 +1,50 @@
 <!-- README.md -->
 
-# Hola, soy Aldo Cordoba
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
 
-<img src="https://avatars.githubusercontent.com/u/134328269?v=4" alt="Aldo Cordoba" width="100" height="100">
+  h1 {
+    color: #0366d6;
+  }
+
+  img {
+    border-radius: 50%;
+  }
+
+  h2 {
+    color: #0366d6;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 8px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #0366d6;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+# Hola, soy Aldo Córdoba
+
+<img src="https://avatars.githubusercontent.com/u/134328269?v=4" alt="Aldo Córdoba" width="100" height="100">
 
 ## Acerca de mí
 
-¡Hola! Soy [Tu Nombre], un apasionado de [tus intereses]. Actualmente, trabajo como [tu trabajo/rol] y me encanta [lo que te gusta]. En mi tiempo libre, disfruto [tus hobbies/intereses adicionales].
+¡Hola! Soy Aldo Córdoba, un apasionado de la programación web. Actualmente, trabajo como Desarrollador Web en un E-commerce y me encanta aprender y aplicar nuevos conceptos todos los días. En mi tiempo libre, disfruto tomar cursos que incrementen mi experiencia y mi conocimiento como desarrollador web.
 
 ## Skills
 
@@ -26,4 +64,3 @@
 - [Sitio web personal](enlace-a-tu-sitio-web)
 
 ¡Gracias por visitar mi perfil!
-
