@@ -1,46 +1,8 @@
 <!-- README.md -->
 
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
-  }
-
-  h1 {
-    color: #0366d6;
-  }
-
-  img {
-    border-radius: 50%;
-  }
-
-  h2 {
-    color: #0366d6;
-  }
-
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-
-  li {
-    margin-bottom: 8px;
-  }
-
-  a {
-    text-decoration: none;
-    color: #0366d6;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
-
 # Hola, soy Aldo Córdoba
 
-<img src="https://avatars.githubusercontent.com/u/134328269?v=4" alt="Aldo Córdoba" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/134328269?v=4" alt="Aldo Córdoba" width="100" height="100" style="border-radius: 50%;">
 
 ## Acerca de mí
 
