@@ -2,7 +2,7 @@
 
 # Hola, soy Aldo Córdoba
 
-<img src="https://avatars.githubusercontent.com/u/134328269?v=4" alt="Aldo Córdoba" width="100" height="100" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/134328269?v=4" alt="Aldo Córdoba" width="100" height="100">
 
 ## Acerca de mí
 
@@ -10,9 +10,32 @@
 
 ## Skills
 
-- Habilidades técnicas 1
-- Habilidades técnicas 2
-- Habilidades técnicas 3
+<details>
+  <summary>Lenguajes de Programación</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Frameworks y Bibliotecas</summary>
+  <ul>
+    <li>React</li>
+    <li>Vue.js</li>
+    <li>Bootstrap</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Herramientas</summary>
+  <ul>
+    <li>Git</li>
+    <li>VS Code</li>
+    <li>Photoshop</li>
+  </ul>
+</details>
 
 ## Proyectos Destacados
 
