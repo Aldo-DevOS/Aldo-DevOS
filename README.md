@@ -23,7 +23,7 @@
   <summary>Frameworks y Bibliotecas</summary>
   <ul>
     <li>React</li>
-    <li>Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="20" height="20"> Vue.js</li></li>
+    <li>Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30" height="30"> Vue.js</li></li>
     <li>Bootstrap</li>
   </ul>
 </details>
