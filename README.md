@@ -2,7 +2,7 @@
 
 # Hola, soy Aldo Cordoba
 
-<img src="enlace-a-tu-imagen-de-perfil" alt="Tu Nombre" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/134328269?s=96&v=4" alt="Tu Nombre" width="100" height="100">
 
 ## Acerca de mí
 
