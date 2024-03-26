@@ -2,8 +2,6 @@
 
 # Hola, soy Aldo Córdoba
 
-<img src="https://avatars.githubusercontent.com/u/134328269?v=4" alt="Aldo Córdoba" width="100" height="100">
-
 ## Acerca de mí
 
 ¡Hola! Soy Aldo Córdoba, un apasionado de la programación web. Actualmente, trabajo como Desarrollador Web en un E-commerce y me encanta aprender y aplicar nuevos conceptos todos los días. En mi tiempo libre, disfruto tomar cursos que incrementen mi experiencia y mi conocimiento como desarrollador web.
